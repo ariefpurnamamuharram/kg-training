@@ -1,0 +1,6 @@
+@prefix people: <http://example.org/people/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+people:budi people:age 34 ;
+    people:likes people:kartini .
+
